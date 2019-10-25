@@ -22,3 +22,5 @@ mvn compile
 Kết quả kiểm thử tĩnh với bộ dữ liệu Juliet Test Suite bằng công cụ SonarLint trên IntelliJ IDE:
 
 ![](https://github.com/vudung042/Juliet_Test_Suite/blob/master/Juliet_Tes_Suite.png)
+
+[![](https://vinasupport.com/gioi-thieu-sonarqube-cong-cu-phan-tich-va-kiem-tra-chat-luong-code/)Giới thiệu về SonarLint]
