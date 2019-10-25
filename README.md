@@ -23,4 +23,5 @@ Kết quả kiểm thử tĩnh với bộ dữ liệu Juliet Test Suite bằng c
 
 ![](https://github.com/vudung042/Juliet_Test_Suite/blob/master/Juliet_Tes_Suite.png)
 
-[![](https://vinasupport.com/gioi-thieu-sonarqube-cong-cu-phan-tich-va-kiem-tra-chat-luong-code/)Giới thiệu về SonarLint]
+Giới thiệu về SonarLint: 
+![](https://vinasupport.com/gioi-thieu-sonarqube-cong-cu-phan-tich-va-kiem-tra-chat-luong-code)
